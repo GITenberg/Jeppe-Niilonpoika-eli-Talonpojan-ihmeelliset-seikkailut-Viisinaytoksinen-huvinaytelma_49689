@@ -1,4 +1,5 @@
 _repo: Jeppe-Niilonpoika-eli-Talonpojan-ihmeelliset-seikkailut-Viisinaytoksinen-huvinaytelma_49689
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Tarkiainen, Viljo
@@ -6,6 +7,9 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '45491'
     url: http://www.gutenberg.org/2009/agents/45491
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Holberg, Ludvig
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1863
     wikipedia: http://en.wikipedia.org/wiki/Ludvig_Holberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49689#Jeppe-Niilonpoika-eli-Talonpojan-ihmeelliset-seikkailut-Viisinaytoksinen-huvinaytelma
 gutenberg_issued: '2015-08-12'
 gutenberg_type: Text
 identifiers:
